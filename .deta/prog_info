@@ -1,0 +1,1 @@
+{"id":"369eb3c9-bce7-4106-a065-4515f1a0ab0d","space":203,"runtime":"nodejs12.x","name":"jam","path":"ljr823","project":"a0qa1ppn","account":"270921617325","region":"ap-southeast-1","deps":["xkcd-password@^2.0.0","deta@0.0.6","dotenv@^8.2.0","express@^4.17.1"],"envs":["DETA_SECRET"],"public":false,"log_level":"debug","reload_deps":false}
